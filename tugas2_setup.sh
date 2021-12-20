@@ -9,7 +9,7 @@ pip install --quiet --upgrade scikit-image
 # File Download
 echo "Mendownload file contoh..."
 wget --quiet -O eight.png "https://people.math.sc.edu/Burkardt/data/tif/eight.png"
-wget --quiet -O bali.tif "https://people.math.sc.edu/Burkardt/data/tif/bali.tif"
+wget --quiet -O columns.tif "https://https://people.math.sc.edu/Burkardt/data/tif/columns.tif"
 
 # Done
 echo "Selesai"
