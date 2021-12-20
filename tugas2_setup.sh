@@ -1,6 +1,6 @@
 # Banner
 sudo apt -qq install figlet
-figlet -f slant "065119164 Galang Hanafi"
+figlet -f slant "Galang Hanafi"
 
 # Update library
 echo "Menginstall library..."
